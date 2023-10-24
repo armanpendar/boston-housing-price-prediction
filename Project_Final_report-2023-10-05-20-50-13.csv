@@ -1,0 +1,7 @@
+,Name,Best_score,Best_params
+3,RandomForestRegressor,-0.11957092,"{'max_depth': 15, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 100}"
+4,SVR,-0.145654994,"{'C': 1000, 'cache_size': 200, 'epsilon': 0.2, 'gamma': 0.0001, 'kernel': 'rbf', 'max_iter': -1, 'shrinking': True, 'tol': 0.001}"
+2,DecisionTreeRegressor,-0.146178933,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2, 'splitter': 'random'}"
+5,MLPRegressor,-0.154098026,"{'activation': 'relu', 'alpha': 0.0001, 'batch_size': 'auto', 'beta_1': 0.9, 'beta_2': 0.999, 'early_stopping': True, 'epsilon': 1e-08, 'hidden_layer_sizes': (20,), 'learning_rate': 'constant', 'learning_rate_init': 0.001, 'max_fun': 15000, 'max_iter': 9000000, 'momentum': 0.9, 'n_iter_no_change': 10, 'nesterovs_momentum': True, 'power_t': 0.5, 'random_state': 0, 'shuffle': True, 'solver': 'lbfgs', 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': False, 'warm_start': True}"
+0,LinearRegression,-0.170092223,"{'copy_X': True, 'fit_intercept': True, 'n_jobs': -1, 'positive': False}"
+1,KNeighborsRegressor,-0.175426213,"{'algorithm': 'auto', 'leaf_size': 5, 'metric': 'minkowski', 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}"
